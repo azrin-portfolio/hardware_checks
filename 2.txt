@@ -1,1 +1,2 @@
 This is my 2.txt file
+This is to test git revert command.
